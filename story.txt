@@ -1,3 +1,7 @@
 Once upon a time, there was a brave knight.
 The knight traveled to the dark forest.
+<<<<<<< HEAD
 The knight was eaten by a dragon. The End.
+=======
+The knight found a chest of gold and lived happily ever after.
+>>>>>>> happy-ending
